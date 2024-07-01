@@ -1,0 +1,42 @@
+.homeContainer{
+    position: relative;
+    height: 100vh;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.6);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+}
+
+.homeContainer img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /*object-fit: cover;*/
+    z-index: 0;
+}
+
+.homeContainer .backdrop{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+.content{
+    position: relative;
+    z-index: 2;
+}
+
+.content h1{
+    font-size: 4rem;
+    font-weight: bold;
+}

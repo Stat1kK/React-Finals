@@ -1,0 +1,43 @@
+.pageContainer{
+    width: 100vw;
+    /*background-color: red;*/
+    display: flex;
+    /*justify-content: center;*/
+}
+
+@media (max-width: 700px) {
+    .pageContainer{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+.mchoContainer {
+    max-width: 567px;
+    max-height: 497px;
+    aspect-ratio: 567/497;
+    width: 100%;
+    /*background-color: red;*/
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.goofyDog{
+    display: inline-block;
+    flex-shrink: 0;
+    /*background-color: black;*/
+}
+
+.mchoContainer img{
+    max-width: 50%;
+    position: absolute;
+    min-width: 30%;
+    right: 15%;
+    bottom: 13%;
+}
+
+.formsContainer{
+    max-width: 350px !important;
+    flex-shrink: 1;
+}
