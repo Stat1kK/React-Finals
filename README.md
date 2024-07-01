@@ -1,3 +1,10 @@
+sait aqs 3 page 1- home page, 2-dzaglis genereaciis page sadac gamoiyeneba daglis API da agenerirebs dzaglebis jishs da faveivoriteba shegidzlia 3- gallery custom hook daxmarebit inaxeba local storageshi mere aqedan gamodis galeraishi sadac masze daklikebisas shegidzlia washalo (am proeqtistvis gamoyenebulia react form hook da yup validaciistvis aseve gamoyenebulia galeriis animaciistvis framer motion da bootstrap stylebistvis)
+
+![image](https://github.com/Stat1kK/React-Finals/assets/56381376/669fafd4-0ab5-43a4-aef6-b40e26bf5860)
+![image](https://github.com/Stat1kK/React-Finals/assets/56381376/9a708bbe-3068-4fee-aa88-45ce1d7024aa)
+![image](https://github.com/Stat1kK/React-Finals/assets/56381376/677ce2e8-6507-4876-a6f7-ea056151b712)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
